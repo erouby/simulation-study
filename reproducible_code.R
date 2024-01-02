@@ -1,7 +1,3 @@
-\section{Reproducible code}
-
-\begin{tiny}
-\begin{lstlisting}[language=R]
 ## ---------------------------
 ##
 ## Script name: Simulation 30 individuals (iterations 1 to 10 out of 100)
